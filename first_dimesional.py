@@ -5,7 +5,7 @@ print ("The new created array is : ",end=" ")
 for i in range (len(arr)):
 	print (arr[i],end=" ")
 print ("\r")
-
+LALJI TEST GIT
 #this pop aprestion created in this line
 print("The popped element is : ", end="")
 print(arr.pop(3))
